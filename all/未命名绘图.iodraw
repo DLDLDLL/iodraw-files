@@ -28,7 +28,7 @@
         <mxCell id="gfJieHfwDwewbx2OKxPn-11" value="图谱信息管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=14;spacing=2;align=center;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;spacingTop=0;" vertex="1" parent="1">
           <mxGeometry x="883.5" y="407" width="30" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="gfJieHfwDwewbx2OKxPn-12" value="图谱项目查询" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=14;spacing=2;align=center;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;spacingTop=0;" vertex="1" parent="1">
+        <mxCell id="gfJieHfwDwewbx2OKxPn-12" value="图谱项目展示" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=14;spacing=2;align=center;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;spacingTop=0;" vertex="1" parent="1">
           <mxGeometry x="942.5" y="407" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-13" value="图谱节点管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=14;spacing=2;align=center;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;spacingTop=0;" vertex="1" parent="1">
