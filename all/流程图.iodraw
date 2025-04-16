@@ -217,14 +217,8 @@
         <mxCell id="93FpTSe5fJba7zQt4RqU-119" value="选定某个图谱" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1936" y="111" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="93FpTSe5fJba7zQt4RqU-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-120" target="93FpTSe5fJba7zQt4RqU-122">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-120" value="输入图谱信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1580" y="195" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="93FpTSe5fJba7zQt4RqU-122" value="插入数据库" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1577" y="279" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
