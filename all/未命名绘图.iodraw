@@ -13,10 +13,10 @@
         <mxCell id="gfJieHfwDwewbx2OKxPn-4" value="图谱项目管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="866" y="309" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="gfJieHfwDwewbx2OKxPn-5" value="图谱节点管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="gfJieHfwDwewbx2OKxPn-5" value="图谱管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1026" y="309" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="gfJieHfwDwewbx2OKxPn-6" value="图谱节点查询" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="gfJieHfwDwewbx2OKxPn-6" value="图谱查询" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1215" y="309" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-7" value="注册" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=14;spacing=2;align=center;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;spacingTop=0;" vertex="1" parent="1">
@@ -24,9 +24,6 @@
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-8" value="登录" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=14;spacing=2;align=center;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;spacingTop=0;" vertex="1" parent="1">
           <mxGeometry x="768" y="407" width="30" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="gfJieHfwDwewbx2OKxPn-9" value="增加图谱" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=14;spacing=2;align=center;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="822" y="407" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-10" value="删除图谱" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=14;spacing=2;align=center;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;spacingTop=0;" vertex="1" parent="1">
           <mxGeometry x="875" y="407" width="30" height="120" as="geometry" />
@@ -76,8 +73,10 @@
         <mxCell id="gfJieHfwDwewbx2OKxPn-26" value="" style="startArrow=none;endArrow=blockThin;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontSize=14;endFill=1;" edge="1" parent="1" source="gfJieHfwDwewbx2OKxPn-3" target="gfJieHfwDwewbx2OKxPn-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gfJieHfwDwewbx2OKxPn-27" value="" style="startArrow=none;endArrow=blockThin;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;jumpStyle=sharp;exitDx=0;exitDy=0;fontSize=14;endFill=1;" edge="1" parent="1" source="gfJieHfwDwewbx2OKxPn-4" target="gfJieHfwDwewbx2OKxPn-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gfJieHfwDwewbx2OKxPn-27" value="" style="startArrow=none;endArrow=blockThin;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;jumpStyle=sharp;exitDx=0;exitDy=0;fontSize=14;endFill=1;" edge="1" parent="1" source="gfJieHfwDwewbx2OKxPn-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="837" y="406.9999999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-28" value="" style="startArrow=none;endArrow=blockThin;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontSize=14;endFill=1;" edge="1" parent="1" source="gfJieHfwDwewbx2OKxPn-4" target="gfJieHfwDwewbx2OKxPn-10">
           <mxGeometry relative="1" as="geometry" />
