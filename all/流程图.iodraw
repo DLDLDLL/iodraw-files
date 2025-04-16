@@ -83,11 +83,11 @@
         <mxCell id="93FpTSe5fJba7zQt4RqU-77" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="844" y="564" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="93FpTSe5fJba7zQt4RqU-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-80" target="93FpTSe5fJba7zQt4RqU-72">
+        <mxCell id="93FpTSe5fJba7zQt4RqU-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-80" target="93FpTSe5fJba7zQt4RqU-72">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="766" y="282" />
-              <mxPoint x="766" y="122" />
+              <mxPoint x="1022" y="282" />
+              <mxPoint x="1022" y="122" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -99,7 +99,7 @@
         <mxCell id="93FpTSe5fJba7zQt4RqU-80" value="账号是否存在" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="795" y="262" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="93FpTSe5fJba7zQt4RqU-81" value="注册成功" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="93FpTSe5fJba7zQt4RqU-81" value="进入系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="795" y="498" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-84" value="" style="startArrow=none;endArrow=blockThin;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-76" target="93FpTSe5fJba7zQt4RqU-80">
