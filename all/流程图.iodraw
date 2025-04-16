@@ -588,7 +588,10 @@
         <mxCell id="93FpTSe5fJba7zQt4RqU-252" value="节点名称是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1614" y="982" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="93FpTSe5fJba7zQt4RqU-259" value="页面可视化展示节点信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="93FpTSe5fJba7zQt4RqU-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-259" target="93FpTSe5fJba7zQt4RqU-247">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="93FpTSe5fJba7zQt4RqU-259" value="在数据库中查找节点关联关系" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1614" y="1148" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
