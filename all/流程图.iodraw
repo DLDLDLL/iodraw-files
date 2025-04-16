@@ -548,6 +548,9 @@
         <mxCell id="93FpTSe5fJba7zQt4RqU-244" value="用户输入节点名称" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1614" y="909" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="93FpTSe5fJba7zQt4RqU-260" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-245" target="93FpTSe5fJba7zQt4RqU-259">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-245" value="在数据库中查找节点信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1614" y="1067" width="200" height="40" as="geometry" />
         </mxCell>
@@ -556,11 +559,6 @@
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-247" value="页面可视化展示节点信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1614" y="1230" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="93FpTSe5fJba7zQt4RqU-248" value="" style="startArrow=none;endArrow=blockThin;exitX=0.5;exitY=0.99;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-245" target="93FpTSe5fJba7zQt4RqU-247">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1714" y="1149" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-249" value="" style="startArrow=none;endArrow=blockThin;exitX=0.5;exitY=0.99;entryX=0.51;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-247" target="93FpTSe5fJba7zQt4RqU-246">
           <mxGeometry relative="1" as="geometry" />
@@ -591,7 +589,7 @@
           <mxGeometry x="1614" y="982" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-259" value="页面可视化展示节点信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1624" y="1240" width="200" height="40" as="geometry" />
+          <mxGeometry x="1614" y="1148" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
