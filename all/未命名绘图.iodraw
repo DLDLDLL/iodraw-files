@@ -17,7 +17,7 @@
           <mxGeometry x="1010" y="119" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-6" value="图谱节点查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2009" y="119" width="156" height="49" as="geometry" />
+          <mxGeometry x="1501" y="119" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-7" value="注册" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="575" y="217" width="30" height="100" as="geometry" />
@@ -50,16 +50,16 @@
           <mxGeometry x="1156" y="217" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-17" value="点击查询属性" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="1728" y="217" width="30" height="100" as="geometry" />
+          <mxGeometry x="1220" y="217" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-18" value="搜索节点" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="1934" y="217" width="30" height="100" as="geometry" />
+          <mxGeometry x="1426" y="217" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-19" value="多条件筛选" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="2108" y="217" width="30" height="100" as="geometry" />
+          <mxGeometry x="1600" y="217" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-20" value="关联路径查询" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="2298" y="217" width="30" height="100" as="geometry" />
+          <mxGeometry x="1790" y="217" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-21" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="gfJieHfwDwewbx2OKxPn-2" target="gfJieHfwDwewbx2OKxPn-3">
           <mxGeometry relative="1" as="geometry" />
