@@ -11,10 +11,10 @@
           <mxGeometry x="560" y="119" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-4" value="图谱管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="755" y="119" width="124" height="49" as="geometry" />
+          <mxGeometry x="766" y="119" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-5" value="图谱节点管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="119" width="156" height="49" as="geometry" />
+          <mxGeometry x="1010" y="119" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-6" value="图谱节点查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2009" y="119" width="156" height="49" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="1103" y="217" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-16" value="节点属性配置" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="1277" y="217" width="30" height="100" as="geometry" />
+          <mxGeometry x="1156" y="217" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-17" value="点击查询属性" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="1728" y="217" width="30" height="100" as="geometry" />
