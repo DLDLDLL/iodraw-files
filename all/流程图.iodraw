@@ -241,16 +241,26 @@
         <mxCell id="93FpTSe5fJba7zQt4RqU-127" value="是否插入成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1580" y="451" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="93FpTSe5fJba7zQt4RqU-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-128">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1956" y="271" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="93FpTSe5fJba7zQt4RqU-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-128" target="93FpTSe5fJba7zQt4RqU-140">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-128" value="点击编辑按钮" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1856" y="195" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-129" value="点击删除按钮" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2095" y="195" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="93FpTSe5fJba7zQt4RqU-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-138" target="93FpTSe5fJba7zQt4RqU-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="93FpTSe5fJba7zQt4RqU-138" value="修改数据库数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1856" y="355" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="93FpTSe5fJba7zQt4RqU-139" value="是否修改成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1856" y="451" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="93FpTSe5fJba7zQt4RqU-140" value="输入图谱信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1856" y="271" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
