@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-39" value="提示账号已存在" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="133" y="412" width="200" height="49" as="geometry" />
+          <mxGeometry x="133" y="413.5" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-41" value="" style="startArrow=none;endArrow=blockThin;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-31" target="93FpTSe5fJba7zQt4RqU-32">
           <mxGeometry relative="1" as="geometry" />
