@@ -61,7 +61,7 @@
         <mxCell id="gfJieHfwDwewbx2OKxPn-20" value="关联路径查询" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="2298" y="217" width="30" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="gfJieHfwDwewbx2OKxPn-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="gfJieHfwDwewbx2OKxPn-2" target="gfJieHfwDwewbx2OKxPn-3">
+        <mxCell id="gfJieHfwDwewbx2OKxPn-21" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="gfJieHfwDwewbx2OKxPn-2" target="gfJieHfwDwewbx2OKxPn-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="137" y="94" />
@@ -89,7 +89,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gfJieHfwDwewbx2OKxPn-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.22;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="gfJieHfwDwewbx2OKxPn-3" target="gfJieHfwDwewbx2OKxPn-7">
+        <mxCell id="gfJieHfwDwewbx2OKxPn-25" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.22;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="gfJieHfwDwewbx2OKxPn-3" target="gfJieHfwDwewbx2OKxPn-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="66" y="192" />
