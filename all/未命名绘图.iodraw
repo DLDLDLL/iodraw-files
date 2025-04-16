@@ -17,7 +17,7 @@
           <mxGeometry x="1026" y="309" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-6" value="图谱节点查询" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1219" y="309" width="156" height="49" as="geometry" />
+          <mxGeometry x="1215" y="309" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-7" value="注册" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=14;spacing=2;align=center;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;spacingTop=0;" vertex="1" parent="1">
           <mxGeometry x="715" y="407" width="30" height="120" as="geometry" />
