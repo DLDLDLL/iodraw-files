@@ -20,46 +20,46 @@
           <mxGeometry x="2009" y="119" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-7" value="注册" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="217" width="92" height="49" as="geometry" />
+          <mxGeometry x="20" y="217" width="10" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-8" value="登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="162" y="217" width="92" height="49" as="geometry" />
+          <mxGeometry x="162" y="217" width="10" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-9" value="增加图谱" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="304" y="217" width="124" height="49" as="geometry" />
+          <mxGeometry x="304" y="217" width="10" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-10" value="删除图谱" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="478" y="217" width="124" height="49" as="geometry" />
+          <mxGeometry x="478" y="217" width="10" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-11" value="修改图谱" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="652" y="217" width="124" height="49" as="geometry" />
+          <mxGeometry x="652" y="217" width="10" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-12" value="查询图谱" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="826" y="217" width="124" height="49" as="geometry" />
+          <mxGeometry x="826" y="217" width="10" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-13" value="增加节点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="217" width="124" height="49" as="geometry" />
+          <mxGeometry x="1000" y="217" width="10" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-14" value="删除节点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1174" y="217" width="124" height="49" as="geometry" />
+          <mxGeometry x="1174" y="217" width="10" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-15" value="修改节点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1348" y="217" width="124" height="49" as="geometry" />
+          <mxGeometry x="1348" y="217" width="10" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-16" value="节点属性配置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1522" y="217" width="156" height="49" as="geometry" />
+          <mxGeometry x="1522" y="217" width="10" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-17" value="点击查询属性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1728" y="217" width="156" height="49" as="geometry" />
+          <mxGeometry x="1728" y="217" width="10" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-18" value="搜索节点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1934" y="217" width="124" height="49" as="geometry" />
+          <mxGeometry x="1934" y="217" width="10" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-19" value="多条件筛选" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2108" y="217" width="140" height="49" as="geometry" />
+          <mxGeometry x="2108" y="217" width="10" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-20" value="关联路径查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2298" y="217" width="156" height="49" as="geometry" />
+          <mxGeometry x="2298" y="217" width="10" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="gfJieHfwDwewbx2OKxPn-2" target="gfJieHfwDwewbx2OKxPn-3">
           <mxGeometry relative="1" as="geometry">
