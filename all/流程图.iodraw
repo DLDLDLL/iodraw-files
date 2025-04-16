@@ -11,7 +11,7 @@
           <mxGeometry x="186" y="117" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-32" value="两次密码是否一致?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="213" y="216" width="180" height="100" as="geometry" />
+          <mxGeometry x="213" y="216" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-33" value="在数据库中查找账号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="301" y="471" width="204" height="49" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="276" y="990" width="55" height="34" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-36" value="账号是否存在?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="328" y="570" width="180" height="100" as="geometry" />
+          <mxGeometry x="328" y="570" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-37" value="创建新账号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="234" y="793" width="140" height="49" as="geometry" />
