@@ -7,7 +7,7 @@
         <mxCell id="93FpTSe5fJba7zQt4RqU-31" value="用户输入账号和两次密码" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="379" y="98" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="93FpTSe5fJba7zQt4RqU-32" value="两次密码是否一致?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="93FpTSe5fJba7zQt4RqU-32" value="两次密码是否一致" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="378" y="176.5" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-33" value="在数据库中查找账号" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
