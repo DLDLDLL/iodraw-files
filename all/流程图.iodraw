@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-38" value="注册成功" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="760" y="340" width="200" height="49" as="geometry" />
+          <mxGeometry x="710" y="340" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-39" target="93FpTSe5fJba7zQt4RqU-35">
           <mxGeometry relative="1" as="geometry" />
