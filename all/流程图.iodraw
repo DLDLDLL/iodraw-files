@@ -600,7 +600,7 @@
         <mxCell id="93FpTSe5fJba7zQt4RqU-263" value="用户输入或选择节点属性值" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1920" y="909" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="93FpTSe5fJba7zQt4RqU-264" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-265">
+        <mxCell id="93FpTSe5fJba7zQt4RqU-264" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-265" target="93FpTSe5fJba7zQt4RqU-267">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2020" y="1063" as="targetPoint" />
           </mxGeometry>
