@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gfJieHfwDwewbx2OKxPn-2" value="高中数学知识图谱系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="916" y="210" width="220" height="49" as="geometry" />
+          <mxGeometry x="928" y="210" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-3" value="用户管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="717" y="309" width="124" height="49" as="geometry" />
@@ -28,7 +28,7 @@
         <mxCell id="gfJieHfwDwewbx2OKxPn-11" value="图谱信息管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=14;spacing=2;align=center;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;spacingTop=0;" vertex="1" parent="1">
           <mxGeometry x="883.5" y="407" width="30" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="gfJieHfwDwewbx2OKxPn-12" value="查询图谱" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=14;spacing=2;align=center;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;spacingTop=0;" vertex="1" parent="1">
+        <mxCell id="gfJieHfwDwewbx2OKxPn-12" value="图谱项目查询" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=14;spacing=2;align=center;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;spacingTop=0;" vertex="1" parent="1">
           <mxGeometry x="942.5" y="407" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-13" value="图谱节点管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=14;spacing=2;align=center;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;spacingTop=0;" vertex="1" parent="1">
