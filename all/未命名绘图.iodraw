@@ -32,13 +32,13 @@
           <mxGeometry x="982" y="407" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-13" value="图谱节点管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=14;spacing=2;align=center;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="1036" y="407" width="30" height="120" as="geometry" />
+          <mxGeometry x="1143" y="407" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-14" value="图谱关系管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=14;spacing=2;align=center;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;spacingTop=0;" vertex="1" parent="1">
           <mxGeometry x="1089" y="407" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-15" value="图谱可视化" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=14;spacing=2;align=center;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="1143" y="407" width="30" height="120" as="geometry" />
+          <mxGeometry x="1070" y="407" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-17" value="点击查询属性" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=14;spacing=2;align=center;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;spacingTop=0;" vertex="1" parent="1">
           <mxGeometry x="1196" y="407" width="30" height="120" as="geometry" />
