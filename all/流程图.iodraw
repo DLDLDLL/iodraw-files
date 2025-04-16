@@ -11,10 +11,10 @@
           <mxGeometry x="204" y="117" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-32" value="两次密码是否一致?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="213" y="216" width="200" height="100" as="geometry" />
+          <mxGeometry x="204" y="216" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-33" value="在数据库中查找账号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="296" y="340" width="200" height="49" as="geometry" />
+          <mxGeometry x="211" y="380" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-34" value="提示密码不一致" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="570" y="241.5" width="200" height="49" as="geometry" />
