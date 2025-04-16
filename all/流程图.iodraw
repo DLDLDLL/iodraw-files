@@ -251,16 +251,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-136" value="图谱id是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1856" y="271" width="200" height="40" as="geometry" />
+          <mxGeometry x="1856" y="355" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-138" target="93FpTSe5fJba7zQt4RqU-139">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-138" value="修改数据库数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1856" y="355" width="200" height="40" as="geometry" />
+          <mxGeometry x="1856" y="439" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="93FpTSe5fJba7zQt4RqU-139" value="是否插入成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1856" y="451" width="200" height="40" as="geometry" />
+        <mxCell id="93FpTSe5fJba7zQt4RqU-139" value="是否修改成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1856" y="535" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
