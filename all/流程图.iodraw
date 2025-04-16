@@ -237,6 +237,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="93FpTSe5fJba7zQt4RqU-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-124" target="93FpTSe5fJba7zQt4RqU-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-124" value="图谱名称是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1580" y="271" width="200" height="40" as="geometry" />
         </mxCell>
@@ -259,6 +262,11 @@
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-127" target="93FpTSe5fJba7zQt4RqU-120">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="93FpTSe5fJba7zQt4RqU-159" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="93FpTSe5fJba7zQt4RqU-158">
+          <mxGeometry x="-0.3611" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-127" value="是否插入成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1580" y="451" width="200" height="40" as="geometry" />
