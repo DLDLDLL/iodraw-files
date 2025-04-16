@@ -28,6 +28,9 @@
         <mxCell id="93FpTSe5fJba7zQt4RqU-38" value="注册成功" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="379" y="538" width="200" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="93FpTSe5fJba7zQt4RqU-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-39" target="93FpTSe5fJba7zQt4RqU-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-39" value="提示账号已存在" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="133" y="412" width="200" height="49" as="geometry" />
         </mxCell>
