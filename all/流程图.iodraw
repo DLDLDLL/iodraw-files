@@ -214,6 +214,12 @@
         <mxCell id="93FpTSe5fJba7zQt4RqU-118" value="点击创建按钮" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1580" y="111" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="93FpTSe5fJba7zQt4RqU-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-119" target="93FpTSe5fJba7zQt4RqU-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="93FpTSe5fJba7zQt4RqU-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-119" target="93FpTSe5fJba7zQt4RqU-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-119" value="选定某个图谱" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1968" y="111" width="200" height="40" as="geometry" />
         </mxCell>
@@ -258,6 +264,9 @@
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-139" value="是否修改成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1856" y="451" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="93FpTSe5fJba7zQt4RqU-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-140" target="93FpTSe5fJba7zQt4RqU-138">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-140" value="输入图谱信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1856" y="271" width="200" height="40" as="geometry" />
