@@ -626,7 +626,7 @@
         <mxCell id="93FpTSe5fJba7zQt4RqU-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-280" target="93FpTSe5fJba7zQt4RqU-282">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="93FpTSe5fJba7zQt4RqU-280" value="用户输入" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="93FpTSe5fJba7zQt4RqU-280" value="用户输入节点和关系名称" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2183" y="909" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-282" target="93FpTSe5fJba7zQt4RqU-284">
