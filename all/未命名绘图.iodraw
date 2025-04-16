@@ -10,7 +10,7 @@
         <mxCell id="gfJieHfwDwewbx2OKxPn-3" value="用户管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="694" y="309" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="gfJieHfwDwewbx2OKxPn-4" value="图谱管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="gfJieHfwDwewbx2OKxPn-4" value="图谱项目管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="866" y="309" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-5" value="图谱节点管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
