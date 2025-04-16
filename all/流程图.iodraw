@@ -11,19 +11,19 @@
           <mxGeometry x="199" y="214" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-33" value="在数据库中查找账号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="199" y="392" width="200" height="49" as="geometry" />
+          <mxGeometry x="199" y="362" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-34" value="提示密码不一致" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="570" y="241.5" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-35" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="271" y="859" width="55" height="34" as="geometry" />
+          <mxGeometry x="272.5" y="730" width="55" height="34" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-36" value="账号是否存在?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="199" y="520" width="200" height="100" as="geometry" />
+          <mxGeometry x="199" y="459" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-38" value="注册成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="200" y="698" width="200" height="49" as="geometry" />
+          <mxGeometry x="200" y="620" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-39" value="提示账号已存在" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="570" y="484.5" width="200" height="49" as="geometry" />
