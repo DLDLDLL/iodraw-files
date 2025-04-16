@@ -594,6 +594,9 @@
         <mxCell id="93FpTSe5fJba7zQt4RqU-259" value="在数据库中查找节点关联关系" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1614" y="1148" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="93FpTSe5fJba7zQt4RqU-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-263" target="93FpTSe5fJba7zQt4RqU-265">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-263" value="用户输入或选择节点属性值" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1920" y="909" width="200" height="40" as="geometry" />
         </mxCell>
@@ -617,16 +620,6 @@
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-270" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1970" y="835" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="93FpTSe5fJba7zQt4RqU-273" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" target="93FpTSe5fJba7zQt4RqU-263">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1920" y="1002" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="93FpTSe5fJba7zQt4RqU-274" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="93FpTSe5fJba7zQt4RqU-273">
-          <mxGeometry x="-0.0626" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-277" target="93FpTSe5fJba7zQt4RqU-267">
           <mxGeometry relative="1" as="geometry" />
