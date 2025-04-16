@@ -8,7 +8,7 @@
           <mxGeometry x="922" y="210" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-3" value="用户管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="670" y="309" width="124" height="49" as="geometry" />
+          <mxGeometry x="680" y="309" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-4" value="图谱管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="846" y="309" width="124" height="49" as="geometry" />
@@ -20,10 +20,10 @@
           <mxGeometry x="1260" y="309" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-7" value="注册" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="675" y="407" width="30" height="100" as="geometry" />
+          <mxGeometry x="685" y="407" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-8" value="登录" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="747" y="407" width="30" height="100" as="geometry" />
+          <mxGeometry x="760" y="407" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-9" value="增加图谱" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="820" y="407" width="30" height="100" as="geometry" />
