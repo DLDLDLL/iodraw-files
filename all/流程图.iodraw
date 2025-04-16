@@ -220,6 +220,9 @@
         <mxCell id="93FpTSe5fJba7zQt4RqU-120" value="输入图谱信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1580" y="195" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="93FpTSe5fJba7zQt4RqU-122" value="输入图谱信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="205" width="200" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
