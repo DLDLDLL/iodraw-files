@@ -383,7 +383,7 @@
         <mxCell id="93FpTSe5fJba7zQt4RqU-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-185" target="93FpTSe5fJba7zQt4RqU-190">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="93FpTSe5fJba7zQt4RqU-185" value="输入图谱信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="93FpTSe5fJba7zQt4RqU-185" value="输入节点信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="370" y="879" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-190" target="93FpTSe5fJba7zQt4RqU-192">
@@ -402,7 +402,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="93FpTSe5fJba7zQt4RqU-190" value="图谱名称是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="93FpTSe5fJba7zQt4RqU-190" value="节点名称是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="370" y="955" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-192" target="93FpTSe5fJba7zQt4RqU-198">
