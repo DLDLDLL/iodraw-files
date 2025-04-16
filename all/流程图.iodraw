@@ -655,7 +655,7 @@
         <mxCell id="93FpTSe5fJba7zQt4RqU-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-289" target="93FpTSe5fJba7zQt4RqU-301">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="93FpTSe5fJba7zQt4RqU-289" value="用户输入节点名称" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="93FpTSe5fJba7zQt4RqU-289" value="用户输入节点和关系名称" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2449" y="907" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-290" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-291" target="93FpTSe5fJba7zQt4RqU-303">
@@ -695,7 +695,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="93FpTSe5fJba7zQt4RqU-301" value="节点名称是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="93FpTSe5fJba7zQt4RqU-301" value="关系名称是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2449" y="980" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-302" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-303" target="93FpTSe5fJba7zQt4RqU-293">
