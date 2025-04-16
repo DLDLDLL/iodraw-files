@@ -13,9 +13,6 @@
         <mxCell id="93FpTSe5fJba7zQt4RqU-33" value="在数据库中查找账号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="199" y="362" width="200" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="93FpTSe5fJba7zQt4RqU-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-34" target="93FpTSe5fJba7zQt4RqU-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-34" value="提示密码不一致" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="470" y="239.5" width="200" height="49" as="geometry" />
         </mxCell>
