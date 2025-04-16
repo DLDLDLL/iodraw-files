@@ -235,8 +235,8 @@
         <mxCell id="93FpTSe5fJba7zQt4RqU-128" value="点击编辑按钮" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1856" y="195" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="93FpTSe5fJba7zQt4RqU-129" value="点击创建按钮" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="131" width="200" height="40" as="geometry" />
+        <mxCell id="93FpTSe5fJba7zQt4RqU-129" value="点击删除按钮" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="2095" y="195" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
