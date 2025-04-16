@@ -504,8 +504,8 @@
         <mxCell id="93FpTSe5fJba7zQt4RqU-220" value="提示删除失败" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="885" y="1226" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="93FpTSe5fJba7zQt4RqU-221" value="查询节点的关联关系" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1179" y="968" width="200" height="40" as="geometry" />
+        <mxCell id="93FpTSe5fJba7zQt4RqU-221" value="删除数据库关系数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="885" y="1039" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
