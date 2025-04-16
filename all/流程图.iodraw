@@ -31,17 +31,6 @@
         <mxCell id="93FpTSe5fJba7zQt4RqU-41" value="" style="startArrow=none;endArrow=blockThin;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-31" target="93FpTSe5fJba7zQt4RqU-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="93FpTSe5fJba7zQt4RqU-42" value="是" style="startArrow=none;endArrow=blockThin;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-32" target="93FpTSe5fJba7zQt4RqU-33">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="410" y="288" />
-              <mxPoint x="410" y="298" />
-              <mxPoint x="464" y="298" />
-              <mxPoint x="464" y="210" />
-              <mxPoint x="630" y="210" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-43" value="否" style="startArrow=none;endArrow=blockThin;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-32" target="93FpTSe5fJba7zQt4RqU-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
