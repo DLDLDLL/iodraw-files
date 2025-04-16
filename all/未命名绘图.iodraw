@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gfJieHfwDwewbx2OKxPn-2" value="高中数学知识图谱系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="922" y="210" width="220" height="49" as="geometry" />
+          <mxGeometry x="900" y="210" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-3" value="用户管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="680" y="309" width="124" height="49" as="geometry" />
+          <mxGeometry x="690" y="309" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-4" value="图谱管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="846" y="309" width="124" height="49" as="geometry" />
@@ -20,10 +20,10 @@
           <mxGeometry x="1201.5" y="309" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-7" value="注册" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="690" y="407" width="30" height="100" as="geometry" />
+          <mxGeometry x="700" y="407" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-8" value="登录" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="760" y="407" width="30" height="100" as="geometry" />
+          <mxGeometry x="770" y="407" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gfJieHfwDwewbx2OKxPn-9" value="增加图谱" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="820" y="407" width="30" height="100" as="geometry" />
