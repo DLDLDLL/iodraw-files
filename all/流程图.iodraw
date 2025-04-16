@@ -655,13 +655,15 @@
         <mxCell id="93FpTSe5fJba7zQt4RqU-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-289" target="93FpTSe5fJba7zQt4RqU-301">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="93FpTSe5fJba7zQt4RqU-289" value="用户输入节点和关系名称" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="93FpTSe5fJba7zQt4RqU-289" value="用户输入节点和关系类型" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2449" y="907" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="93FpTSe5fJba7zQt4RqU-290" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-291" target="93FpTSe5fJba7zQt4RqU-303">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="93FpTSe5fJba7zQt4RqU-290" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-291">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2549" y="1146" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="93FpTSe5fJba7zQt4RqU-291" value="在数据库中查找节点信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="93FpTSe5fJba7zQt4RqU-291" value="在数据库中查找节点和关系" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2449" y="1065" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-292" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
@@ -698,11 +700,10 @@
         <mxCell id="93FpTSe5fJba7zQt4RqU-301" value="关系类型是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2449" y="980" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="93FpTSe5fJba7zQt4RqU-302" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-303" target="93FpTSe5fJba7zQt4RqU-293">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="93FpTSe5fJba7zQt4RqU-303" value="在数据库中查找节点关联关系" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="2449" y="1146" width="200" height="40" as="geometry" />
+        <mxCell id="93FpTSe5fJba7zQt4RqU-302" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="93FpTSe5fJba7zQt4RqU-293">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2549" y="1186" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
