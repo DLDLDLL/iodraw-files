@@ -271,6 +271,15 @@
         <mxCell id="93FpTSe5fJba7zQt4RqU-140" value="输入图谱信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1856" y="271" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="93FpTSe5fJba7zQt4RqU-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93FpTSe5fJba7zQt4RqU-146" target="93FpTSe5fJba7zQt4RqU-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="93FpTSe5fJba7zQt4RqU-146" value="修改数据库数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1866" y="365" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="93FpTSe5fJba7zQt4RqU-147" value="是否修改成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1866" y="461" width="200" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
