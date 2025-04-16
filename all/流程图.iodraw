@@ -1,10 +1,10 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="OvHUKdLyL9aOs4K13F6L">
-    <mxGraphModel dx="1260" dy="740" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2240" dy="1316" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="93FpTSe5fJba7zQt4RqU-62" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="93FpTSe5fJba7zQt4RqU-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="132" y="28" width="812" height="673" as="geometry" />
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-31" value="用户输入账号和两次密码" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
@@ -74,9 +74,6 @@
         </mxCell>
         <mxCell id="93FpTSe5fJba7zQt4RqU-51" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="271.5" y="50" width="55" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="93FpTSe5fJba7zQt4RqU-63" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="449" y="354" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
