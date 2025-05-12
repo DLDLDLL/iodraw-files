@@ -31,7 +31,7 @@
           <mxGeometry x="350" y="190" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3Kovz-VqfGSIiS0-86NJ-5" value="注册" style="ellipse;whiteSpace=wrap;html=1;align=center;flipH=1;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="190" width="100" height="40" as="geometry" />
+          <mxGeometry x="590.8" y="190" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3Kovz-VqfGSIiS0-86NJ-6" value="知识图谱项目管理" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="332" width="100" height="40" as="geometry" />
@@ -49,10 +49,10 @@
           <mxGeometry x="520" y="556" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3Kovz-VqfGSIiS0-86NJ-11" value="创建知识图谱" style="ellipse;whiteSpace=wrap;html=1;align=center;flipH=1;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="243" width="100" height="40" as="geometry" />
+          <mxGeometry x="590.8" y="243" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3Kovz-VqfGSIiS0-86NJ-12" value="登录" style="ellipse;whiteSpace=wrap;html=1;align=center;flipH=1;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="140" width="100" height="40" as="geometry" />
+          <mxGeometry x="590.8" y="140" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3Kovz-VqfGSIiS0-86NJ-13" value="知识图谱查询" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="615" width="100" height="40" as="geometry" />
@@ -79,10 +79,10 @@
           <mxGeometry x="780" y="320" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3Kovz-VqfGSIiS0-86NJ-30" value="删除知识图谱" style="ellipse;whiteSpace=wrap;html=1;align=center;flipH=1;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="349" width="100" height="40" as="geometry" />
+          <mxGeometry x="590.8" y="349" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3Kovz-VqfGSIiS0-86NJ-31" value="编辑知识图谱" style="ellipse;whiteSpace=wrap;html=1;align=center;flipH=1;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="296" width="100" height="40" as="geometry" />
+          <mxGeometry x="590.8" y="296" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3Kovz-VqfGSIiS0-86NJ-32" value="知识路径分析" style="ellipse;whiteSpace=wrap;html=1;align=center;flipH=1;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="662" width="100" height="40" as="geometry" />
