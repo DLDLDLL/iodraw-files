@@ -71,12 +71,12 @@
           <mxGeometry x="690" y="70" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3Kovz-VqfGSIiS0-86NJ-28" value="登录" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="710" y="110" width="100" height="40" as="geometry" />
+          <mxGeometry x="700" y="290" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3Kovz-VqfGSIiS0-86NJ-29" value="登录" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="790" y="130" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3Kovz-VqfGSIiS0-86NJ-30" value="登录" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="3Kovz-VqfGSIiS0-86NJ-30" value="删除知识图谱" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="710" y="240" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3Kovz-VqfGSIiS0-86NJ-31" value="编辑知识图谱" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
