@@ -19,10 +19,10 @@
         <mxCell id="3Kovz-VqfGSIiS0-86NJ-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="260" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3Kovz-VqfGSIiS0-86NJ-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="3Kovz-VqfGSIiS0-86NJ-4" target="3Kovz-VqfGSIiS0-86NJ-5">
+        <mxCell id="3Kovz-VqfGSIiS0-86NJ-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="3Kovz-VqfGSIiS0-86NJ-4" target="3Kovz-VqfGSIiS0-86NJ-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3Kovz-VqfGSIiS0-86NJ-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="3Kovz-VqfGSIiS0-86NJ-4" target="3Kovz-VqfGSIiS0-86NJ-12">
+        <mxCell id="3Kovz-VqfGSIiS0-86NJ-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="3Kovz-VqfGSIiS0-86NJ-4" target="3Kovz-VqfGSIiS0-86NJ-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3Kovz-VqfGSIiS0-86NJ-4" value="账号管理" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -31,7 +31,7 @@
         <mxCell id="3Kovz-VqfGSIiS0-86NJ-5" value="注册" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="590" y="190" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3Kovz-VqfGSIiS0-86NJ-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="3Kovz-VqfGSIiS0-86NJ-6" target="3Kovz-VqfGSIiS0-86NJ-11">
+        <mxCell id="3Kovz-VqfGSIiS0-86NJ-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="3Kovz-VqfGSIiS0-86NJ-6" target="3Kovz-VqfGSIiS0-86NJ-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3Kovz-VqfGSIiS0-86NJ-6" value="知识图谱项目管理" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
